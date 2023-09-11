@@ -1,0 +1,11 @@
+body
+{
+    background: rgb(49,146,52);
+    background: linear-gradient(90deg, rgba(49,146,52,1) 0%, rgba(231,14,188,1) 0%, rgba(28,222,34,1) 86%);
+}
+
+div
+{
+    height: 100%;
+    width: 100%;
+}
